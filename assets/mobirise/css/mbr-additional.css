@@ -1,5 +1,10 @@
-#menu-0 .navbar-toggler {
-  color: #ffffff;
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+#features1-c H4 {
+  color: #990f0b;
+}
+#features1-c P {
+  color: #090b42;
 }
 #slider-9 H2 {
   color: #ffffff;
@@ -11,4 +16,27 @@
 }
 #contacts3-a P {
   color: #ffffff;
+}
+#dropdown-menu-2btn-b .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-b .nav .link,
+#dropdown-menu-2btn-b .dropdown-item {
+  font-size: 1.2em;
+  color: #05386b;
+}
+#dropdown-menu-2btn-b .navbar,
+#dropdown-menu-2btn-b .dropdown-menu {
+  background: #5cdb95;
+}
+#dropdown-menu-2btn-b .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-b .dropdown-menu a:hover,
+#dropdown-menu-2btn-b .dropdown-menu a:focus {
+  background: #4bd78a;
+}
+#dropdown-menu-2btn-b .navbar-toggler {
+  color: #05386b;
+}
+#dropdown-menu-2btn-b STRONG {
+  font-family: 'Alegreya Sans', sans-serif;
 }

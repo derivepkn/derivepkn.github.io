@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 11,
+    "uniqCompNum": 13,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png"
   },
@@ -28,48 +28,6 @@
         "html_before": ""
       },
       "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#5cdb95",
-            "hamburgerColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 0092 349010000 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong><br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><strong>Media services &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Destinations &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Religious Tourism&nbsp;</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><strong>Whoo We Are</strong></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/animated-pakistan-flag-image-6.gif",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Derivepk</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          }
-        },
         {
           "_params": {
             "showTitle": false,
@@ -116,27 +74,28 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#5cdb95",
             "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/A8GoWiTBGbA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=A8GoWiTBGbA&t=102s",
+              "rawUrl": "https://www.youtube.com/watch?v=A8GoWiTBGbA",
               "width": 1280,
               "height": 720
             },
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#bee4af",
+            "overlayOpacity": "0"
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/web-1-600x360.jpg",
+              "src": "@PROJECT_PATH@/assets/images/web-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "page9.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -146,13 +105,14 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/swat-f-600x360.jpg",
+              "src": "@PROJECT_PATH@/assets/images/neelumv3-1.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "page3.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -162,7 +122,24 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vector-media-600x420.png",
+              "src": "@PROJECT_PATH@/assets/images/web-vector-e-3.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "page11.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "file:///C:/Users/Atif/AppData/Local/Mobirise.com/Mobirise/projects/project-2019-07-04_145042/assets/images/web-vector-e-2.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -176,27 +153,14 @@
               "size": 0
             }
           },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/feature-websites.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "Bootstrap 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title1": "<a href=\"page9.html\"><b>Naran-Hunza - Khunjerab- KKH &nbsp;</b></a>",
+          "caption1": "<b><a href=\"page9.html\">Group Min 4&nbsp;</a><br><a href=\"page10.html\"><a href=\"page9.html\">6 Days &amp; 5 </a><i><a href=\"page9.html\">Nights&nbsp;</a></i></a></b><b><br></b>",
+          "title2": "<b><a href=\"page3.html\">Kashmir- Swat Valley</a></b>",
+          "caption2": "<b><a href=\"page3.html\">Group Min 4 persons&nbsp;</a><br><a href=\"page3.html\">Customised- Your Budget- Your Time</a><br><br></b>",
+          "title3": "<b><a href=\"page11.html\">Media Services</a></b>",
+          "caption3": "<b><a href=\"page11.html\">Fixing -&nbsp;Content Development -PR\n</a><br><a href=\"page11.html\">Logistics-Transport- Hotel transfers- Tanslations - Guide</a><br></b>",
+          "title4": "<b>Media &nbsp;Services</b>",
+          "caption4": "<b><br></b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
@@ -206,7 +170,15 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-2"
+          "_styles": {
+            "H4": {
+              "color": "#990f0b"
+            },
+            "P": {
+              "color": "#090b42"
+            }
+          },
+          "_anchor": "features1-c"
         },
         {
           "_params": {
@@ -384,6 +356,61 @@
             }
           },
           "_anchor": "contacts3-a"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#5cdb95",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#05386b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+92 349 0100 000</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\"><strong>Media Services&nbsp;</strong></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><strong>Destinations</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Naran</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Hunza - Khunjerab</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Kashmir- Swat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Islamabad</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">South Punjab&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bahawalpur- Cholistan-Uch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Cholistan Jeep Rally&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><strong>Archeological Tourism</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Shrines &amp; Masajid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">&nbsp;Budhist Pilgrimage&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\"><strong>Who we Are&nbsp;</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#05386b"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#5cdb95"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#4bd78a"
+            },
+            ".navbar-toggler": {
+              "color": "#05386b"
+            },
+            "STRONG": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/animated-pakistan-flag-image-6.gif",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><strong>dérive pk</strong></a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-b"
         }
       ]
     }
