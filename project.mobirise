@@ -8,7 +8,8 @@
       "styling": {},
       "additionalSetColors": [
         "#5cdb95",
-        "#090b42"
+        "#090b42",
+        "#05386b"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -38,7 +39,7 @@
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/phandar-valley-giligit-balistan-1280x692.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
             "bgVideoRadio": false,
@@ -159,7 +160,7 @@
           "title2": "<b><a href=\"page3.html\">Kashmir- Swat</a></b>",
           "caption2": "<b>Group Min 4 persons&nbsp;<br>Customised- Your Budget- Your Time<br><br></b>",
           "title3": "<b><a href=\"page11.html\">Media Services</a></b>",
-          "caption3": "<b>Fixing -&nbsp;Content Development -PR\n<br>Logistics-Transport- Hotel transfers- Tanslations - Guide<br></b>",
+          "caption3": "<b>Fixing -&nbsp;Content Development &amp; Optimisation-PR -&nbsp;Logistics-Transport- Hotel transfers- Tanslation<br></b>",
           "title4": "<b>Media &nbsp;Services</b>",
           "caption4": "<b><br></b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
@@ -183,8 +184,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -371,7 +372,7 @@
             "fontName": {},
             "fontColor": "#05386b"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+92 349 0100 000</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\"><strong>Media Services&nbsp;</strong></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><strong>Destinations</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Naran</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Hunza - Khunjerab</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Kashmir- Swat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Islamabad</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">South Punjab&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bahawalpur- Cholistan-Uch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Cholistan Jeep Rally&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><strong>Archeological Tourism</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Shrines &amp; Masajid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">&nbsp;Budhist Pilgrimage&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\"><strong>Who we Are&nbsp;</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+92 349 0100 000</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\"><strong>Media Services&nbsp;</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><strong>Destinations</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Naran</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Hunza - Khunjerab</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Kashmir- Swat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Islamabad</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">South Punjab&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bahawalpur- Cholistan-Uch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Cholistan Jeep Rally&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><strong>Archeological Tourism</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Shrines &amp; Masajid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">&nbsp;Budhist Pilgrimage&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\"><strong>Who we Are&nbsp;</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
