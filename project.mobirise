@@ -7,7 +7,8 @@
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
-        "#5cdb95"
+        "#5cdb95",
+        "#090b42"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -153,12 +154,12 @@
               "size": 0
             }
           },
-          "title1": "<a href=\"page9.html\"><b>Naran-Hunza - Khunjerab- KKH &nbsp;</b></a>",
-          "caption1": "<b><a href=\"page9.html\">Group Min 4&nbsp;</a><br><a href=\"page10.html\"><a href=\"page9.html\">6 Days &amp; 5 </a><i><a href=\"page9.html\">Nights&nbsp;</a></i></a></b><b><br></b>",
-          "title2": "<b><a href=\"page3.html\">Kashmir- Swat Valley</a></b>",
-          "caption2": "<b><a href=\"page3.html\">Group Min 4 persons&nbsp;</a><br><a href=\"page3.html\">Customised- Your Budget- Your Time</a><br><br></b>",
+          "title1": "<a href=\"page9.html\"><b>Northern Areas</b></a>",
+          "caption1": "<b>Group Min 4 Persons <br>6 Days &amp; 5 <i>Nights&nbsp;<br></i></b><b><br></b>",
+          "title2": "<b><a href=\"page3.html\">Kashmir- Swat</a></b>",
+          "caption2": "<b>Group Min 4 persons&nbsp;<br>Customised- Your Budget- Your Time<br><br></b>",
           "title3": "<b><a href=\"page11.html\">Media Services</a></b>",
-          "caption3": "<b><a href=\"page11.html\">Fixing -&nbsp;Content Development -PR\n</a><br><a href=\"page11.html\">Logistics-Transport- Hotel transfers- Tanslations - Guide</a><br></b>",
+          "caption3": "<b>Fixing -&nbsp;Content Development -PR\n<br>Logistics-Transport- Hotel transfers- Tanslations - Guide<br></b>",
           "title4": "<b>Media &nbsp;Services</b>",
           "caption4": "<b><br></b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
@@ -193,7 +194,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 Company Name. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2019 dérive pK &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
