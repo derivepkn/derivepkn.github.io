@@ -224,12 +224,6 @@
   font-family: 'Alegreya Sans', sans-serif;
 }
 
-#contacts3-x DIV {
-  color: #ffffff;
-}
-#contacts3-x P {
-  color: #ffffff;
-}
 #dropdown-menu-2btn-y .hide-buttons [data-button] {
   display: none !important;
 }
@@ -252,6 +246,12 @@
 }
 #dropdown-menu-2btn-y STRONG {
   font-family: 'Alegreya Sans', sans-serif;
+}
+#contacts3-x DIV {
+  color: #ffffff;
+}
+#contacts3-x P {
+  color: #ffffff;
 }
 
 #content5-13 DIV {

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-14_0001",
-    "currentPage": "page8.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -9,13 +9,14 @@
       "additionalSetColors": [
         "#5cdb95",
         "#090b42",
-        "#05386b"
+        "#05386b",
+        "#5fffa7"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 40,
+    "uniqCompNum": 43,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png"
   },
@@ -1335,6 +1336,162 @@
           "_anchor": "footer1-w"
         },
         {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#5cdb95",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#05386b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+92 349 0100 000</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\"><strong>Media Services&nbsp;</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><strong>Destinations</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Naran</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Hunza - Khunjerab</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Kashmir- Swat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Islamabad</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">South Punjab&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bahawalpur- Cholistan-Uch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Cholistan Jeep Rally&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><strong>Archeological Tourism</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Shrines &amp; Masajid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">&nbsp;Budhist Pilgrimage&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\"><strong>Who we Are&nbsp;</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#05386b"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#5cdb95"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#4bd78a"
+            },
+            ".navbar-toggler": {
+              "color": "#05386b"
+            },
+            "STRONG": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/animated-pakistan-flag-image-6.gif",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><strong>dérive pk</strong></a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mausoleum-of-meher-ali-shah-by-balochlens-1805x1200.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#5fffa7",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Sufi Shrines",
+          "caption": "<p>The history of Sufiism in Pakistan goes back to over 1,000 years.  Today, there are thousands of Sufi shrines and mausoleums spread in different parts of the country.\n</p><p>Some are famous among general public and some are unknown. For example, the graves of Sahaba Karam in Cholistan near Derawar Fort, Bahawalpur, or Wadi-e-Tarbela shrine.\n</p><p>Below is a list of some well-known shrines. \n</p><p>Hazrat Abdullah Shah Ghazi, Karachi<br><span style=\"font-size: 1.25rem;\">Hazrat Syed Abul Hassan Bin Usman Bin Ali Al-Hajweri, Lahore<br></span><span style=\"font-size: 1.25rem;\">Hazrat Makhdoom Baha-ud-din Zakariya,  Hazrat Makhdoom Rukn-ud-din and  Shah Shams-ud-Din Sabzwari, in Multan<br></span><span style=\"font-size: 1.25rem;\">Hazrat Fariduddin Ganjshakar,  Pakpattan<br></span><span style=\"font-size: 1.25rem;\">Hazrat Syed Muhammad Usman (Lal Shahbaz Qalandar),  Sehwan Sharif, Sindh&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Hazrat Jalaluddin Surkh-Posh Bukhari, and Hazrat Jahaniyan Jahangasht, Uch Sharif&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Hazrat Bibi Pak Daman, Lahore&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Hazrat Muhammad Qasim Sadiq, Mohra Sharif\tMurree&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Hazrat Meher Ali Shah, Golra Sharif, Islamabad&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Hazrat Abdul Wahab Faruqi (Sachal Sarmast)\tKhairpur\tSindh&nbsp;<br></span><span style=\"font-size: 1.25rem;\">hazrat Sultan Sakhi Sarwar\tDera Ghazi Khan&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Hazrat Khwaja Ghulam Farid\tMithankot\tRajanpur &nbsp;<br></span><span style=\"font-size: 1.25rem;\">Hazrat Shah Abdul Latif Bhittai\t\t\tBhit Shah\tMatiari\tSindh&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Hazrat Shah Abdul Latif Kazmi\t\tIslamabad&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Hazrat Pir Mangho\tGadap Town\tKarachi\tSindh&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Hazrat Sakhi Shah Chan Charagh\tRawalpindi\tPunjab&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>We offer region wise and city wise tours. For example, if you want to visit shrines in Rawalpindi Islamabad area, we will give you a list of all the shrines and you will decide where you want to go as per your time and your budget.&nbsp;</span></p><p>In Islamabad, Loi dandi and Chillah Gah in Nilan Bhotu are the sites one must visit.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-14"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/1024px-bari-imam-1024x575.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1024px-bari-imam-1024x575-800x449.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mosque-of-hazrat-makhdoom-jahaniyaan-uch-shareef-2000x1268.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mosque-of-hazrat-makhdoom-jahaniyaan-uch-shareef-2000x1268-800x507.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hazrat-shah-shams-tabraiz-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hazrat-shah-shams-tabraiz-800x600-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/darbar-hazrat-baba-farid-ud-deen-ganj-shakar-rahmatullah-alaih-panoramio-2000x1545.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/darbar-hazrat-baba-farid-ud-deen-ganj-shakar-rahmatullah-alaih-panoramio-2000x1545-800x618.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bibi-jiwindi-shrine-uch-750x438.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bibi-jiwindi-shrine-uch-750x438-750x438.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1024px-data-darbar-complex-evening-1024x612.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1024px-data-darbar-complex-evening-1024x612-800x478.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mausoleum-of-meher-ali-shah-by-balochlens-1805x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mausoleum-of-meher-ali-shah-by-balochlens-1805x1200-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/800px-tome-of-shah-rukn-e-alam-800x669.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/800px-tome-of-shah-rukn-e-alam-800x669-800x669.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-16"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -1392,61 +1549,6 @@
             }
           },
           "_anchor": "contacts3-x"
-        },
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#5cdb95",
-            "fontSize": "1.2",
-            "fontName": {},
-            "fontColor": "#05386b"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+92 349 0100 000</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\"><strong>Media Services&nbsp;</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><strong>Destinations</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Naran</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Hunza - Khunjerab</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Kashmir- Swat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Islamabad</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">South Punjab&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bahawalpur- Cholistan-Uch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Cholistan Jeep Rally&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><strong>Archeological Tourism</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Shrines &amp; Masajid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">&nbsp;Budhist Pilgrimage&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\"><strong>Who we Are&nbsp;</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#05386b"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#5cdb95"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#4bd78a"
-            },
-            ".navbar-toggler": {
-              "color": "#05386b"
-            },
-            "STRONG": {
-              "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/animated-pakistan-flag-image-6.gif",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": ""
-            }
-          },
-          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><strong>dérive pk</strong></a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-y"
         }
       ]
     },
