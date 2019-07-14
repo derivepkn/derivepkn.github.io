@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-14_0001",
-    "currentPage": "page7.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -16,7 +16,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 43,
+    "uniqCompNum": 45,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png"
   },
@@ -1193,6 +1193,183 @@
           "_anchor": "footer1-t"
         },
         {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#5cdb95",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#05386b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+92 349 0100 000</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\"><strong>Media Services&nbsp;</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><strong>Destinations</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Naran</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Hunza - Khunjerab</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Kashmir- Swat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Islamabad</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">South Punjab&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bahawalpur- Cholistan-Uch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Cholistan Jeep Rally&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><strong>Archeological Tourism</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Shrines &amp; Masajid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">&nbsp;Budhist Pilgrimage&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\"><strong>Who we Are&nbsp;</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#05386b"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#5cdb95"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#4bd78a"
+            },
+            ".navbar-toggler": {
+              "color": "#05386b"
+            },
+            "STRONG": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/animated-pakistan-flag-image-6.gif",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><strong>dérive pk</strong></a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-v"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".lead": {
+              "color": "#05386b"
+            },
+            ".mbr-section-title": {
+              "color": "#05386b"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Cholistan- Bahawalpur - Uch</b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Bahawalpur \n</b></p><p><b>Bahawalpur, around 700 kilometers from Islamabad is situated in Punjab province. The princely state was founded by Nawab Muhammad Bahawal Khan-II in the early nineteenth century. In the United India, Bahawalpur was called the Rajputana State which is now Rajhistan in India.  The city is renowned for its many famous palaces which include Noor Mahal, Darbar Mahal Sadiq Ghar Palace. \n</b></p><p><b>The city’s location itself has historical significance as it is situated near the historical and ancient city of Uch as well as close to Harappa, both of which used to be a stronghold of the Delhi Sultanate and Indus Valley Civilization respectively. The Bahawalpur city also has a vast safari park, the Lal Suhanra National Park.\n</b></p><p><b>&nbsp;\n<span style=\"font-size: 1.25rem;\">Derawar Fort&nbsp;</span></b></p><p><b>Around 100 kilometeers away from Bahawalpur is the ancient Derawar Fort. It was built in the 9th century under the kingship of Rai Jajja Bhati, a Hindu Rajput from Jaisalmir in India's Rajasthan state. With 30-metre-high bastions surround the fort, along with its walls, that span over 1.5 kilometres, it is an engineering marvel.\n</b></p><p><b>In the harsh climate of the desert, the fort's red-bricked facade seems to glow with the heat and is visible from miles, changing colours as you approach.\n</b></p><p><b>The Derawar fort was also connected to other forts in Cholistan through a network of underground tunnels. On the ground floor, there were offices, a small prison, a water pond and residential quarters.\n</b></p><p><b>The fort attracts a large number of local, national and international tourists in the winters. Since 2005, Cholistan car rally has evolved into a popular sport event. The best time to visit Bahawalpur or Cholistan is in winters.\n<br><br>Uch Sharif<br><span style=\"font-size: 1.25rem;\"><br>Uch is a historic city in the southern part of Pakistan's Punjab province. Uch may have been founded as Alexandria on the Indus, a town founded by Alexander the Great during his invasion of the Indus Valley.&nbsp;</span></b></p><p><b>Uch was an early stronghold of the Delhi Sultanate during the Muslim conquest of the subcontinent. It is famous for its collection of shrines dedicated to Muslim mystics from the 12-15th centuries.</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-17"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/derawr-1500x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/derawr-1500x900-800x480.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cholistan-desert-passing-920x595.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cholistan-desert-passing-920x595-800x517.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cholistan-773x478.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cholistan-773x478-773x478.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/villagehouse-796x394.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/villagehouse-796x394-796x394.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/nm-550x366.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nm-550x366-550x366.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/nm2-550x339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nm2-550x339-550x339.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/noormehal2-768x592.png",
+                "thumb": "@PROJECT_PATH@/assets/images/noormehal2-768x592-768x592.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bahawalpur-450x450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bahawalpur-450x450-450x450.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-18"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -1250,61 +1427,6 @@
             }
           },
           "_anchor": "contacts3-u"
-        },
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#5cdb95",
-            "fontSize": "1.2",
-            "fontName": {},
-            "fontColor": "#05386b"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+92 349 0100 000</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\"><strong>Media Services&nbsp;</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><strong>Destinations</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Naran</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Hunza - Khunjerab</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Kashmir- Swat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Islamabad</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">South Punjab&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bahawalpur- Cholistan-Uch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Cholistan Jeep Rally&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><strong>Archeological Tourism</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Shrines &amp; Masajid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">&nbsp;Budhist Pilgrimage&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\"><strong>Who we Are&nbsp;</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#05386b"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#5cdb95"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#4bd78a"
-            },
-            ".navbar-toggler": {
-              "color": "#05386b"
-            },
-            "STRONG": {
-              "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/animated-pakistan-flag-image-6.gif",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": ""
-            }
-          },
-          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><strong>dérive pk</strong></a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-v"
         }
       ]
     },

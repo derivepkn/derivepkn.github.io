@@ -194,12 +194,6 @@
   font-family: 'Alegreya Sans', sans-serif;
 }
 
-#contacts3-u DIV {
-  color: #ffffff;
-}
-#contacts3-u P {
-  color: #ffffff;
-}
 #dropdown-menu-2btn-v .hide-buttons [data-button] {
   display: none !important;
 }
@@ -222,6 +216,27 @@
 }
 #dropdown-menu-2btn-v STRONG {
   font-family: 'Alegreya Sans', sans-serif;
+}
+#msg-box3-17 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-17 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-17 .lead P {
+  text-align: left;
+}
+#msg-box3-17 .lead {
+  color: #05386b;
+}
+#msg-box3-17 .mbr-section-title {
+  color: #05386b;
+}
+#contacts3-u DIV {
+  color: #ffffff;
+}
+#contacts3-u P {
+  color: #ffffff;
 }
 
 #dropdown-menu-2btn-y .hide-buttons [data-button] {
